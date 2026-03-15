@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"org.xiaoyu.micro.anntation"},{"l":"org.xiaoyu.micro.aop"},{"l":"org.xiaoyu.micro.exception"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"org.xiaoyu.micro.boot"},{"l":"org.xiaoyu.micro.web"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
