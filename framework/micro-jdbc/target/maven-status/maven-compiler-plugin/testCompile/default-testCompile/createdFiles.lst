@@ -1,0 +1,11 @@
+org\xiaoyu\micro\jdbc\with\tx\AddressService.class
+org\xiaoyu\micro\jdbc\without\tx\JdbcWithoutTxTest.class
+org\xiaoyu\micro\jdbc\with\tx\Address.class
+org\xiaoyu\micro\jdbc\without\tx\User.class
+org\xiaoyu\micro\jdbc\with\tx\UserService.class
+org\xiaoyu\micro\jdbc\without\tx\JdbcWithoutTxApplication.class
+org\xiaoyu\micro\jdbc\with\tx\JdbcWithTxApplication.class
+org\xiaoyu\micro\jdbc\with\tx\JdbcWithTxTest.class
+org\xiaoyu\micro\jdbc\without\tx\Address.class
+org\xiaoyu\micro\jdbc\with\tx\User.class
+org\xiaoyu\micro\jdbc\JdbcTestBase.class

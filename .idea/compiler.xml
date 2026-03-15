@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="resource-resolver" />
+        <module name="hello-webapp" />
+        <module name="micro-context" />
+        <module name="micro-jdbc" />
+        <module name="proxy-resolver" />
+        <module name="micro-web" />
+        <module name="hello-boot" />
+        <module name="web-app-context" />
+        <module name="bean-post-processor" />
+        <module name="bean-instances" />
+        <module name="init-beans" />
+        <module name="bean-definitions" />
+        <module name="jdbc-template" />
+        <module name="micro-boot" />
+        <module name="property-resolver" />
+        <module name="micro-aop" />
+        <module name="micro-Spring" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bean-definitions" options="" />
+      <module name="bean-instances" options="" />
+      <module name="bean-post-processor" options="" />
+      <module name="hello-boot" options="" />
+      <module name="hello-webapp" options="" />
+      <module name="init-beans" options="" />
+      <module name="jdbc-template" options="" />
+      <module name="micro-Spring" options="-parameters" />
+      <module name="micro-aop" options="" />
+      <module name="micro-boot" options="" />
+      <module name="micro-build" options="" />
+      <module name="micro-context" options="" />
+      <module name="micro-jdbc" options="" />
+      <module name="micro-parent" options="" />
+      <module name="micro-web" options="" />
+      <module name="property-resolver" options="" />
+      <module name="proxy-resolver" options="" />
+      <module name="resource-resolver" options="" />
+      <module name="web-app-context" options="" />
+    </option>
+  </component>
+</project>

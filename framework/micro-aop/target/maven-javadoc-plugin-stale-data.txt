@@ -1,0 +1,65 @@
+@options
+@packages
+@argfile
+-classpath
+'D:/xiaoyu/micro-Spring/framework/micro-context/target/micro-context-1.0.6.jar;D:/Mevan/repo/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;D:/Mevan/repo/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar;D:/Mevan/repo/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;D:/Mevan/repo/ch/qos/logback/logback-classic/1.4.12/logback-classic-1.4.12.jar;D:/Mevan/repo/ch/qos/logback/logback-core/1.4.12/logback-core-1.4.12.jar;D:/Mevan/repo/net/bytebuddy/byte-buddy/1.14.2/byte-buddy-1.14.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java;D:/xiaoyu/micro-Spring/framework/micro-aop/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/xiaoyu/micro-Spring/framework/micro-aop/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'micro-aop 1.0.6 API'
+-use
+-version
+-windowtitle
+'micro-aop 1.0.6 API'
+org.xiaoyu.micro.anntation
+org.xiaoyu.micro.aop
+org.xiaoyu.micro.exception
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/anntation/Around.java'
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/aop/AfterInvocationHandlerAdapter.java'
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/aop/AnnotationProxyBeanPostProcessor.java'
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/aop/AroundProxyBeanPostProcessor.java'
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/aop/BeforeInvocationHandlerAdapter.java'
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/aop/ProxyResolver.java'
+'D:/xiaoyu/micro-Spring/framework/micro-aop/src/main/java/org/xiaoyu/micro/exception/AopConfigException.java'
+D:\xiaoyu\micro-Spring\framework\micro-context\target\micro-context-1.0.6.jar = 1773318438567
+D:\Mevan\repo\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1744031668000
+D:\Mevan\repo\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar = 1770272800362
+D:\Mevan\repo\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1744031668000
+D:\Mevan\repo\ch\qos\logback\logback-classic\1.4.12\logback-classic-1.4.12.jar = 1770208910837
+D:\Mevan\repo\ch\qos\logback\logback-core\1.4.12\logback-core-1.4.12.jar = 1770208910879
+D:\Mevan\repo\net\bytebuddy\byte-buddy\1.14.2\byte-buddy-1.14.2.jar = 1771658525282
+D:\xiaoyu\micro-Spring\framework\micro-aop\src\main\java = 1772203162588
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\generated-sources\annotations = 1773318441629
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\allclasses-index.html = 1773318442987
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\allpackages-index.html = 1773318442989
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\element-list = 1773318442909
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\help-doc.html = 1773318443010
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\index-all.html = 1773318443005
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\index.html = 1773318442977
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\jquery-ui.overrides.css = 1773318443036
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\member-search-index.js = 1773318442994
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\module-search-index.js = 1773318442992
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\overview-summary.html = 1773318443007
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\overview-tree.html = 1773318442975
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\package-search-index.js = 1773318442993
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\script.js = 1773318443015
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\search.js = 1773318443017
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\serialized-form.html = 1773318442940
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\stylesheet.css = 1773318443014
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\tag-search-index.js = 1773318442995
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\apidocs\type-search-index.js = 1773318442993

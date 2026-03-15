@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/framework/micro-aop" />
+    <file type="web" url="file://$PROJECT_DIR$/micro/bean-post-processor" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/resource-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/property-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/property-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/bean-definitions/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/bean-definitions/pom.xml" />
+        <option value="$PROJECT_DIR$/bean-instances/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/bean-instances/pom.xml" />
+        <option value="$PROJECT_DIR$/init-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/init-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/bean-post-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/bean-post-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/context/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/context/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-context/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/proxy-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-template/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/jdbc-template/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/web-server-context/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/web-server-context/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-web/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-web/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/hello-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-build/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-build/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/micro-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/web-app-context/pom.xml" />
+        <option value="$PROJECT_DIR$/micro/hello-boot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

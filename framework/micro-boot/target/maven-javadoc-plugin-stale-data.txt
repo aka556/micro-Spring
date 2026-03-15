@@ -1,0 +1,72 @@
+@options
+@packages
+@argfile
+-classpath
+'D:/xiaoyu/micro-Spring/framework/micro-web/target/micro-web-1.0.6.jar;D:/xiaoyu/micro-Spring/framework/micro-context/target/micro-context-1.0.6.jar;D:/Mevan/repo/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar;D:/Mevan/repo/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.jar;D:/Mevan/repo/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.jar;D:/Mevan/repo/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.jar;D:/Mevan/repo/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;D:/Mevan/repo/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;D:/Mevan/repo/ch/qos/logback/logback-classic/1.4.12/logback-classic-1.4.12.jar;D:/Mevan/repo/ch/qos/logback/logback-core/1.4.12/logback-core-1.4.12.jar;D:/Mevan/repo/org/freemarker/freemarker/2.3.32/freemarker-2.3.32.jar;D:/xiaoyu/micro-Spring/framework/micro-jdbc/target/micro-jdbc-1.0.6.jar;D:/xiaoyu/micro-Spring/framework/micro-aop/target/micro-aop-1.0.6.jar;D:/Mevan/repo/net/bytebuddy/byte-buddy/1.14.2/byte-buddy-1.14.2.jar;D:/Mevan/repo/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar;D:/Mevan/repo/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;D:/Mevan/repo/org/apache/tomcat/embed/tomcat-embed-core/10.1.47/tomcat-embed-core-10.1.47.jar;D:/Mevan/repo/org/apache/tomcat/tomcat-annotations-api/10.1.47/tomcat-annotations-api-10.1.47.jar;D:/Mevan/repo/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.47/tomcat-embed-jasper-10.1.47.jar;D:/Mevan/repo/org/apache/tomcat/embed/tomcat-embed-el/10.1.47/tomcat-embed-el-10.1.47.jar;D:/Mevan/repo/org/eclipse/jdt/ecj/3.33.0/ecj-3.33.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/xiaoyu/micro-Spring/framework/micro-boot/src/main/java;D:/xiaoyu/micro-Spring/framework/micro-boot/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/xiaoyu/micro-Spring/framework/micro-boot/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'micro-boot 1.0.6 API'
+-use
+-version
+-windowtitle
+'micro-boot 1.0.6 API'
+org.xiaoyu.micro.boot
+org.xiaoyu.micro.web
+'D:/xiaoyu/micro-Spring/framework/micro-boot/src/main/java/org/xiaoyu/micro/boot/MicroApplication.java'
+'D:/xiaoyu/micro-Spring/framework/micro-boot/src/main/java/org/xiaoyu/micro/web/ContextLoaderInitializer.java'
+D:\xiaoyu\micro-Spring\framework\micro-web\target\micro-web-1.0.6.jar = 1773318446444
+D:\xiaoyu\micro-Spring\framework\micro-context\target\micro-context-1.0.6.jar = 1773318438567
+D:\Mevan\repo\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar = 1770272800362
+D:\Mevan\repo\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar = 1744031682000
+D:\Mevan\repo\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar = 1744031682000
+D:\Mevan\repo\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar = 1744031682000
+D:\Mevan\repo\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1744031668000
+D:\Mevan\repo\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1744031668000
+D:\Mevan\repo\ch\qos\logback\logback-classic\1.4.12\logback-classic-1.4.12.jar = 1770208910837
+D:\Mevan\repo\ch\qos\logback\logback-core\1.4.12\logback-core-1.4.12.jar = 1770208910879
+D:\Mevan\repo\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar = 1772093051588
+D:\xiaoyu\micro-Spring\framework\micro-jdbc\target\micro-jdbc-1.0.6.jar = 1773318443876
+D:\xiaoyu\micro-Spring\framework\micro-aop\target\micro-aop-1.0.6.jar = 1773318441941
+D:\Mevan\repo\net\bytebuddy\byte-buddy\1.14.2\byte-buddy-1.14.2.jar = 1771658525282
+D:\Mevan\repo\com\zaxxer\HikariCP\5.0.1\HikariCP-5.0.1.jar = 1744031668000
+D:\Mevan\repo\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1772093051408
+D:\Mevan\repo\org\apache\tomcat\embed\tomcat-embed-core\10.1.47\tomcat-embed-core-10.1.47.jar = 1772093057682
+D:\Mevan\repo\org\apache\tomcat\tomcat-annotations-api\10.1.47\tomcat-annotations-api-10.1.47.jar = 1772093057455
+D:\Mevan\repo\org\apache\tomcat\embed\tomcat-embed-jasper\10.1.47\tomcat-embed-jasper-10.1.47.jar = 1772093057793
+D:\Mevan\repo\org\apache\tomcat\embed\tomcat-embed-el\10.1.47\tomcat-embed-el-10.1.47.jar = 1772093057346
+D:\Mevan\repo\org\eclipse\jdt\ecj\3.33.0\ecj-3.33.0.jar = 1772093057220
+D:\xiaoyu\micro-Spring\framework\micro-boot\src\main\java = 1772890135547
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\generated-sources\annotations = 1773318448829
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\allclasses-index.html = 1773318450119
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\allpackages-index.html = 1773318450121
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\element-list = 1773318450076
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\help-doc.html = 1773318450137
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\index-all.html = 1773318450131
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\index.html = 1773318450111
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\jquery-ui.overrides.css = 1773318450153
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\member-search-index.js = 1773318450125
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\module-search-index.js = 1773318450123
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\overview-summary.html = 1773318450133
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\overview-tree.html = 1773318450108
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\package-search-index.js = 1773318450124
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\script.js = 1773318450139
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\search.js = 1773318450140
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\stylesheet.css = 1773318450138
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\tag-search-index.js = 1773318450125
+D:\xiaoyu\micro-Spring\framework\micro-boot\target\apidocs\type-search-index.js = 1773318450124

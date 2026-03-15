@@ -1,0 +1,10 @@
+org\xiaoyu\hello\web\LogFilterRegistrationBean.class
+org\xiaoyu\hello\web\MvcController.class
+org\xiaoyu\hello\service\DbInitializer.class
+org\xiaoyu\hello\service\UserService.class
+org\xiaoyu\hello\User.class
+org\xiaoyu\hello\web\ApiFilterRegistrationBean.class
+org\xiaoyu\hello\web\ApiFilter.class
+org\xiaoyu\hello\web\ApiController.class
+org\xiaoyu\hello\HelloConfiguration.class
+org\xiaoyu\hello\web\LogFilter.class

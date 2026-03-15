@@ -1,0 +1,88 @@
+@options
+@packages
+@argfile
+-classpath
+'D:/Mevan/repo/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;D:/Mevan/repo/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;D:/Mevan/repo/ch/qos/logback/logback-classic/1.4.12/logback-classic-1.4.12.jar;D:/Mevan/repo/ch/qos/logback/logback-core/1.4.12/logback-core-1.4.12.jar;D:/Mevan/repo/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java;D:/xiaoyu/micro-Spring/framework/micro-context/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/xiaoyu/micro-Spring/framework/micro-context/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'micro-context 1.0.6 API'
+-use
+-version
+-windowtitle
+'micro-context 1.0.6 API'
+org.xiaoyu.micro.annotation
+org.xiaoyu.micro.context
+org.xiaoyu.micro.exception
+org.xiaoyu.micro.io
+org.xiaoyu.micro.web.utils
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Autowired.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Bean.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Component.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/ComponentScan.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Configuration.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Import.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Order.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Primary.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/annotation/Value.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/context/AnnotationConfigApplicationContext.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/context/ApplicationContext.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/context/ApplicationContextUtils.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/context/BeanDefinition.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/context/BeanPostProcessor.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/context/ConfigurableApplicationContext.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/BeanCreationException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/BeanDefinitionException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/BeanNotOfRequiredTypeException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/BeansException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/NestedRuntimeException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/NoSuchBeanDefinitionException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/NoUniqueBeanDefinitionException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/exception/UnsatisfiedDependencyException.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/io/InputStreamCallback.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/io/PropertyResolver.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/io/Resource.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/io/ResourceResolver.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/web/utils/ClassPathUtils.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/web/utils/ClassUtils.java'
+'D:/xiaoyu/micro-Spring/framework/micro-context/src/main/java/org/xiaoyu/micro/web/utils/YamlUtils.java'
+D:\Mevan\repo\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1744031668000
+D:\Mevan\repo\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1744031668000
+D:\Mevan\repo\ch\qos\logback\logback-classic\1.4.12\logback-classic-1.4.12.jar = 1770208910837
+D:\Mevan\repo\ch\qos\logback\logback-core\1.4.12\logback-core-1.4.12.jar = 1770208910879
+D:\Mevan\repo\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar = 1770272800362
+D:\xiaoyu\micro-Spring\framework\micro-context\src\main\java = 1772203162915
+D:\xiaoyu\micro-Spring\framework\micro-context\target\generated-sources\annotations = 1773318433689
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\allclasses-index.html = 1773318440403
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\allpackages-index.html = 1773318440406
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\element-list = 1773318440238
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\help-doc.html = 1773318440448
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\index-all.html = 1773318440442
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\index.html = 1773318440383
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\jquery-ui.overrides.css = 1773318440469
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\member-search-index.js = 1773318440418
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\module-search-index.js = 1773318440406
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\overview-summary.html = 1773318440445
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\overview-tree.html = 1773318440379
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\package-search-index.js = 1773318440416
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\script.js = 1773318440451
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\search.js = 1773318440453
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\serialized-form.html = 1773318440282
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\stylesheet.css = 1773318440450
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\tag-search-index.js = 1773318440420
+D:\xiaoyu\micro-Spring\framework\micro-context\target\apidocs\type-search-index.js = 1773318440417

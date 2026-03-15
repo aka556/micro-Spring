@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.xiaoyu.micro.web","l":"ContextLoaderInitializer"},{"p":"org.xiaoyu.micro.boot","l":"MicroApplication"}];updateSearchResults();
